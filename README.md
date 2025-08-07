@@ -6,7 +6,7 @@
 
 ### 👩‍💻 About Me:
 
-💡 I'm a **Network Engineer**, **System Administrator**, and a passionate **DevOps Trainee** with hands-on experience in building, securing, and automating infrastructure.  
+💡 I'm a **Network Engineer**, **System Administrator**, and a passionate **DevOps** with hands-on experience in building, securing, and automating infrastructure.  
 🚀 I believe in lifelong learning and thrive on working with cutting-edge technologies that make systems more efficient and reliable.  
 🔐 With a background in **CCNA**, **CCNP**, **ISC2 Certified in Cybersecurity (CC)**, **Linux Admin 1 & 2**, and **Shell Scripting**, I bridge networking, systems, and DevOps.  
 📚 Currently completing the full **DevOps Roadmap**, mastering the tools and practices of modern infrastructure.
